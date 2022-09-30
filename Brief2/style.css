@@ -2,7 +2,6 @@
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
    background-color: black;    
-   margin: 5px 5px ;
 }
 header{
     display: flex;
@@ -48,7 +47,7 @@ div{
 .container{
     width: 100%;
     display: flex;
-    
+
 }
 .box{
     border: 3px solid rgb(255, 255, 255);
@@ -65,8 +64,11 @@ h3{
 
 .imageVideo{
     height: 350px;
-    width: 240px;
+    width: 244px;
 }
 section{
     margin-top: 30px;
+}
+.main{
+    margin:0px 20px;
 }
