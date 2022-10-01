@@ -11,8 +11,7 @@ header {
   margin-left: 80px;
   margin-top: -20px;
 }
-ul,
-a {
+ul,a {
   display: flex;
   color: rgb(253, 228, 2);
   text-decoration: none; /* remove the ligne */
@@ -52,14 +51,14 @@ div {
 .box {
   border: 3px solid rgb(255, 252, 57);
   border-radius: 9px;
-  width: 100%;
+  width: 450px;
   height: 450px;
   margin: 20px;
   margin-left: 30px;
 }
 h3 {
   color: white;
-  margin-left: 50px;
+  margin-left: 30px;
 }
 
 .imageVideo {
@@ -76,11 +75,6 @@ section {
 
 footer {
   margin-top: 500px;
-  margin-left: 250px;
+  margin-left: 450px;
 }
 
-/* responsive styles */
-
-/* @media screen and(max-whidh){
-  
-} */
